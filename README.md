@@ -27,7 +27,7 @@ Build out a Stats previous card component. Users should be able to:
 ### Screenshot
 
 [![Desktop_version](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)
-[![Mobile_version](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)
+[![Mobile_version](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Mobile_stats_component_LRJ.jpg)](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Mobile_stats_component_LRJ.jpg)
 
 ### Links
 
