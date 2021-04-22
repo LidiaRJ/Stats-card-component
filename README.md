@@ -26,13 +26,13 @@ Build out a Stats previous card component. Users should be able to:
 
 ### Screenshot
 
-[Screenshot_1](../stats-preview-card-component-main/myScreenshots/Desktop_stats_component_LRJ)
-[Screenshot_2](../stats-preview-card-component-main/myScreenshots/Mobile_stats_component_LRJ)
+[![Desktop_version](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)
+[![Mobile_version](/stats-preview-card-component-main/myScreenshots/Mobile_stats_component_LRJ)](https://github.com/LidiaRJ/Stats-card-component/blob/main/myScreenshots/Desktop_stats%20component_LRJ.jpg)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/LidiaRJ/Stats-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://lidiarj.github.io/Stats-card-component/)
 
 ## My process
 
